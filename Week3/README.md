@@ -41,4 +41,9 @@ This project uses WeatherStack API for weather data. Replace the `api_key` in th
 ## Contributions
 Feel free to contribute by submitting issues and pull requests.
 
-
+## Future Enhancements
+1. Voice Command Support: Integrate speech recognition to interact via voice commands.
+2. AI-Powered Responses: Use NLP to generate intelligent responses.
+3. Task Scheduler: Extend reminder functionality to schedule tasks with notifications.
+4. Multi-Language Support: Enable responses in multiple languages.
+5. Weather API Optimization: Implement caching to reduce API requests.
