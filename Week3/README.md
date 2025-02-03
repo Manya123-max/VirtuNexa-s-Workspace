@@ -38,13 +38,7 @@ pip install requests
 ## API Key Setup
 This project uses WeatherStack API for weather data. Replace the `api_key` in the `open_weather_window()` function with your API key.
 
-## License
-This project is open-source and available for free use.
-
 ## Contributions
 Feel free to contribute by submitting issues and pull requests.
-
-## Author
-Developed by a Python enthusiast!
 
 
